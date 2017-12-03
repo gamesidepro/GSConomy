@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "gsconomy",
+        "name": "[GS] iConomy",
+        "version": "1.2",
+        "description": "iConomy for 1.11 sponge and GAMESIDE DOT PRO",
+        "dependencies": [
+            "spongeapi@6.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@6.0.0"
+        ]
+    }
+]
